@@ -1,0 +1,4 @@
+1) What is CDN links  React
+=> CDN links are content delivery network  which are hosted 
+
+2) what is crossorigin...?
